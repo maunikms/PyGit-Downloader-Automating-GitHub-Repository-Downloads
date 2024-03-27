@@ -1,4 +1,3 @@
-# PyGit-Downloader-Automating-GitHub-Repository-Downloads
 # PyGit Downloader
 
 PyGit Downloader is a Python script designed to automate the process of downloading multiple GitHub repositories. With PyGit Downloader, you can easily clone numerous GitHub repositories listed in a text file, saving you time and effort.
